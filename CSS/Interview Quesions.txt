@@ -1,0 +1,17 @@
+1) What is CSS
+2) What we have learn in CSS
+3) Why css we use
+4) Types of CSS
+5) what is inline CSS
+5) What is internal CSS
+6) what is external CSS
+7) What is CSS Properties tell some css properties?
+8) What is Selectros
+9) tell the different types of selectors
+10) class selector is start with which sign
+11) what sign indicate the id selector
+12) what is difference between class and id
+13) what is the use of universal selector and what sign we use in universal selector
+14)what is psudeo class selectors
+15) what is psudeo element selectors
+16) what is difference in display none and visibility hidden properties
