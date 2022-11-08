@@ -1,0 +1,15 @@
+Interview Questions:
+1) What is HTML?
+
+2) What is MetaData?
+Metadata is data (information) about data. 
+
+3) What is ViewPort?
+The browser's viewport is the area of the window in which web content can be seen.
+
+4) What is Different between HTML4 and HTML5?
+5) What is inline and blocklevel Element?
+6) what is void elements and give exmaples?
+7) Do all HTML tags have an end tag? ...
+8) How many types of heading does an HTML contain? 
+9) What are some common lists that are used when designing a page?
