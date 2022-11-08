@@ -1,0 +1,21 @@
+Box Model:
+		Border
+			Solid
+			Dotted
+			Ridge
+			Double
+		Border-radius
+		
+		Margin -a margin is the space around an element's border,
+			Marign Left / Right / Top / Bottom
+		Padding -padding is the space between an element's border and the element's content
+			Padding Left / Right / Top / Bottom
+In simple way:
+the margin property controls the space outside an element, 
+and the padding property controls the space inside an element.
+			
+HTML comments:
+<!--Contetnt which you want to comment-->
+
+CSS Comments:
+/*Contetnt which you want to comment*/

@@ -1,0 +1,30 @@
+CSS-02
+What Is CSS?
+It is CASCADING STYLE SHEET Programming Language which is used to style or butifiy 
+html element.
+
+we need to learn two things:
+1) CSS Types
+-inline css - when we write css code inside html tag using style attribute 
+				  then it is called inline css.
+	Examples:
+		<h1 style="color:red;">Hello Welcome</h1>
+	
+	Disadvantage:
+		1.it will apply only for that particular tag
+		2.Maintainbility is very less	
+			
+-internal/embeded css:
+when we write css code inside head using style element
+	
+-external css:
+when we use css code in separate file then it is called external css.
+
+1) this file must be save with .css extension
+2) need to link css file with html file
+3) link that css file in head tag
+	<link rel="stylesheet" href="">
+
+
+
+2) CSS Rules

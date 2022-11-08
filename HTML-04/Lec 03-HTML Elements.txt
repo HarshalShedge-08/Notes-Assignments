@@ -1,0 +1,46 @@
+HTML Elements:
+An HTML element is defined by a start tag, some content, and an end tag.
+Element is aslo knows as Tag
+
+<tagname>Content goes here...</tagname>
+
+
+Examples of some HTML elements:
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+Start tag		Element content			End tag
+<h1>			My First Heading		</h1>
+<p>				My first paragraph.		</p>
+<br>			none					none
+
+There are two type of element.
+1) Block-level element:
+A block-level element always start with new line and takes the full width of web page, from left to right.
+
+example: <h1>-<h6>, <p>, <pre>
+
+2) Inline element:
+These elements does not start with new line and take width as per requirement.
+The Inline elements are mostly used with other elements.
+
+example: <b>, <i>, <u> ,<big>, <small> ,<sub>, <sup> ,<br>, <strong>
+
+3) Void elements: 
+Void elements is also known as empty elements. 
+they do not have end tags. Void elements cannot have content inside it.
+
+example: <br>, <hr>
+===========================================================================
+
+HTML attributes:
+HTML attributes provide additional information about HTML elements.
+
+example;
+
+<ul type="circle">
+<li></li>
+</ul>
+
+<ul> and <li> is HTMl Tag OR Element
+type is HTML Attribute 

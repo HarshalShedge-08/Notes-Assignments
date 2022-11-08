@@ -1,0 +1,48 @@
+Links and Navigations
+Navigation : when we go from one page to another page that is known as navigation.
+
+Hyperlink (Navigation):
+
+1) external
+2) Internal
+3) Same Page
+--------------------------------------------
+1) How to connect external or other web pages
+	
+	facebook|youtube|gmail
+
+<a href="">Facebook</a>|
+<a target="_blank" href="https://www.youtube.com/">YouTube</a>
+
+Above are example of external Links
+a 	:for anchor tag
+href 	:is hyperlink reference (provide link here)
+	href="url"	
+target 	: use target as _blank to open the link in new tab. 
+------------------------------------------------------------------------------
+2) How to connect our inner web pages
+	MPA(Multi page application)- when website contain more than one pages that is called MPA.
+
+course
+About us
+Contact us
+
+		
+-----------------------------------------------------------------------------
+3) How to connect same page or particular part of page
+	SPA (Single page application)
+
+---------------------------------------------------------------------------
+
+Interview Question:
+1) What is MPA and SPA
+2) Difference in MPA and SPA
+
+SPA:
+1) Entire application will be use only one page
+2) It is faster than MPA due to need not load page Sepratly
+
+MPA:
+1) Multiple page will be use here
+2) it is use seprat page so it takes time to load that is why it's performance is less than MPA
+

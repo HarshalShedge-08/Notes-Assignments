@@ -1,0 +1,22 @@
+Display and Visibility
+
+
+Display:	inline - it will convert block level elements into inline
+			Block - it will convert inline elements into block level elements
+			none - content remove and it will remove that space also
+
+Visibility:	Hidden - content remove but the space is still there
+
+
+Cursor:
+Pointer
+Crosshair
+Move
+help
+
+Z-index
+
+			   
+
+	
+		 

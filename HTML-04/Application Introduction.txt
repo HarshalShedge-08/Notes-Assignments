@@ -1,0 +1,24 @@
+Introduction Applications and tech
+=============================================
+
+there are 3 types of Application:
+
+1) Standalone Application:
+	which application installed on local system, and it is avialble only on that system that is called standalone application.
+Example:
+	word
+	Excel
+	Power Point
+	Tally
+
+2) Web Application:	
+	It is Deployed (Installed) on server and it is accessable from anywhere using internet this is called Web Application.
+Example:
+	IRCTC
+	Net Banking
+
+3) Distributed Application:
+	when we connect two or more web application then it is called distributed Application.
+Example:
+	PhoePay
+	PayTM

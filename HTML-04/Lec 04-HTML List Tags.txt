@@ -1,0 +1,30 @@
+HTML Tag List:
+
+1) Unordered HTML List
+An unordered list starts with the <ul> tag. Each list item starts with the <li> tag.
+
+The list items will be marked with bullets (small black circles) by default:
+
+2) Ordered HTML List
+An ordered list starts with the <ol> tag. Each list item starts with the <li> tag.
+
+The list items will be marked with numbers by default:
+
+3) HTML Description Lists
+A description list is a list of terms, with a description of each term.
+
+The <dl> tag defines the description list, 
+the <dt> tag defines the term (name), 
+the <dd> tag describes each term:
+
+Tag		Description
+<ul>	Defines an unordered list
+<ol>	Defines an ordered list
+<li>	Defines a list item
+<dl>	Defines a description list
+<dt>	Defines a term in a description list
+<dd>	Describes the term in a description list
+
+
+
+

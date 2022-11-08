@@ -1,0 +1,8 @@
+Multimedia
+Image
+img
+src (sources) - from where you pic images. Path of the images
+		Absolute Path - it will take all the path system path whole address of 				the image
+		Relative Path - no need to add whole path
+
+alt - if our image not loading then alternet text shown.

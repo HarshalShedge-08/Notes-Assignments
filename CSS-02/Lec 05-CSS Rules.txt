@@ -1,0 +1,34 @@
+CSS-02 Rules:
+
+1) Selector 	- means which element we have to select
+2) Properties 	- means what we want to apply on that selector (eg.color,background-color
+				  font size etc...)
+
+selector{property:value; property:valu;}
+		 delclaration1	 delclaration2
+
+h1{color:red; background-color:yellow;}
+
+so here
+what is h1 - selector
+what is color - property
+what is red - value
+
+=====================================================================
+
+there is 5 types of selectors:
+Selector - it is used to select HTML element.
+1) simple selector
+2) combinator selector
+3) psudo selector
+4) pusdo class selector
+5) attribute
+
+
+Properties - are used to butifiying element.	
+	1) Font
+	2) Text
+	3) Box Model
+		Border
+		Margin
+		Padding

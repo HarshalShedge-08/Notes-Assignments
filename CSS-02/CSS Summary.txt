@@ -1,0 +1,33 @@
+CSS 02 Summary
+1. Introduction of CSS
+	Types of CSS
+		Inline
+		Internal
+		External
+	
+2. Font / text Properties
+3. Box Model
+	Border
+	margin
+	Padding
+	Border-Radius
+4.Properties
+	Display
+	Visibility
+	Cursor
+	Opacity
+	Flot
+5. Position
+	Absolute
+	Relative
+	Scroll
+	Z-Index
+
+6.CSS Rules:
+	Properties
+	Selectors
+		1.Simple Selectors
+		2.Combinator Selector
+		3.Pseudo-class selectors
+		4.Pseudo-elements selectors
+		5.Attribute selectors

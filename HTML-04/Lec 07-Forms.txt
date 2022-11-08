@@ -1,0 +1,50 @@
+Form:
+
+Form Element:
+2 main Attribute in the form:
+1) Action : on which server or server page data should send from forms.
+2) Method : two Method 
+	Get : 
+	1) it is used to get data from server
+	2) It is not secure because it send data through url it is visible
+	Post :
+	1) Post method is used to send/save data to server
+	2) it is secure because it send data through body
+
+Form Controls:
+1) Text box
+2) color
+3) date time picker
+4) file picker
+5) email id
+6) Text Area
+7) Number
+8) Time
+9) Month
+10) Week
+
+Buttons:
+1) Radio Button
+2) Check Box
+3) Submit
+4) Reset
+
+Attributes:
+Size
+maxlength
+Placeholder	
+Required
+value
+readonly 
+disabled
+min
+max
+multiple 
+autofocus  
+
+Select Dropdown:
+Attribute:
+	size
+	Multiple
+
+

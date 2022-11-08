@@ -1,0 +1,21 @@
+Following are some Text Tags:
+1) P tag is used for Paragraph
+2) b for Bold
+3) u for underline
+4) i for Italic
+5) h1 to h6 are the heading tags
+	h1 is the biggest size in heading tag
+	h6 is the samallest size
+---------------------------------------------------------------
+6) big - it increase the font size by one unit
+7) small - it decrese the size by 1 unit
+8) strong - it is make text stronger
+9) sub (subscript) - it display the character half below the other characters.
+10) sup (superscript) - it display the character half below the other characters.
+11) strike (strikethrough) - it draw a line middle of the text.
+12) del (delete)  - it deleted the text by drawing line on them.
+13) mark - it is used to heighlight means mark the words.
+-------------------------------------------------------------------
+Unclosed tags:
+1) br for break line
+2) hr for horizontal line
